@@ -8,6 +8,7 @@ h1, h2 {
 }
 
 p {
+	
 	width: 600px;
 	margin: 1em auto;
 }
@@ -65,7 +66,6 @@ neighboring elements.  Necessary to avoid giving ids to the boundary divs
 
 #game div.boundary {
 	position: absolute;
-	
 	top: 0;
 	left: 0;
 	height: 200px;
